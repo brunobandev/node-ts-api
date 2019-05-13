@@ -1,0 +1,8 @@
+{
+  "username": "root",
+  "password": "secret",
+  "database": "node-ts-api",
+  "host": "127.0.0.1",
+  "port": "33061",
+  "dialect": "mysql"
+}
